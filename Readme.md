@@ -1,4 +1,4 @@
-# iNotebook - Your Personal Notes App
+# Discord Clone
 
 - Website Link - https://discord-clone915.herokuapp.com
 
@@ -25,6 +25,7 @@
 ## **Images** :
 
 ### Sign Up
+
 - Don't forget to make a strong password with capital letters & special characters!
 - Entering a valid email & strong password will enable the register button
 
@@ -50,22 +51,17 @@
 - The person you send the request will receive a friend request in the pending request section.
 - The request can be accepted or denied.
 
-![Invite](./images/invite.png)
+![Invite](./images/confirm-invitation.png)
 
 ### New Friend
 
 - After accepting the invitation a new friend will be added in your friends list.
 - Click on the username to chat with the user.
 
-![Invite](./images/invite.png)
+![Invite](./images/new-friend.png)
 
 ### Chat
 
 - You can chat now!
 
-![Invite](./images/invite.png)
-
-
-
-
-
+![Invite](./images/chat.png)
