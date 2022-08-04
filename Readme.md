@@ -1,10 +1,10 @@
-# Discord Clone
+# Connect - Chat App
 
 - Website Link - https://discord-clone915.herokuapp.com
 
 ## Description :
 
-- Discord Clone is a web app similar to discord that allows you to connect with your friends and chat with them.
+- Connect is a web app built on MERN Stack that allows you to connect with your friends and chat with them.
 - Secure Authentication
 - Chat Functionality
 - Sending & Receiving Friend Requests
