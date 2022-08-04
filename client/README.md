@@ -1,46 +1,68 @@
-# Getting Started with Create React App and Redux
+# Connect - Chat App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+- Website Link - https://discord-clone915.herokuapp.com
 
-## Available Scripts
+## Description :
 
-In the project directory, you can run:
+- Connect is a web app built on MERN Stack that allows you to connect with your friends and chat with them.
+- Secure Authentication
+- Chat Functionality
+- Sending & Receiving Friend Requests
 
-### `npm start`
+## Tech Stack :
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- HTML
+- CSS
+- React.js
+- Redux
+- Node.js
+- Express.js
+- Mongoose
+- Socket.io
+- MongoDB
+- JSON Web Token
+- Bootstrap
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## **Images** :
 
-### `npm test`
+### Sign Up
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Don't forget to make a strong password with capital letters & special characters!
+- Entering a valid email & strong password will enable the register button
 
-### `npm run build`
+![Signup](./images/signup.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Login
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Login](./images/login.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Dashboard
 
-### `npm run eject`
+![Dashboard](./images/dashboard.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Add new friend
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Click on the add new friend button to send a invite.
+- Then enter the email id of the person you want to send the friend request & click Send.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Invite](./images/invite.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Confirm Invitation
 
-## Learn More
+- The person you send the request will receive a friend request in the pending request section.
+- The request can be accepted or denied.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Invite](./images/confirm-invitation.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### New Friend
+
+- After accepting the invitation a new friend will be added in your friends list.
+- Click on the username to chat with the user.
+
+![Invite](./images/new-friend.png)
+
+### Chat
+
+- You can chat now!
+
+![Invite](./images/chat.png)

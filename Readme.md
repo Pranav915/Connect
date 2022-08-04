@@ -14,6 +14,7 @@
 - HTML
 - CSS
 - React.js
+- Redux
 - Node.js
 - Express.js
 - Mongoose
