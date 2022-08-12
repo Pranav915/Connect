@@ -11,7 +11,7 @@ let socket = null;
 
 export const connectWithSocketServer = (userDetails) => {
   const jwtToken = userDetails.token;
-  const url = "https://discord-clone915.herokuapp.com";
+  const url = "https://connect915.herokuapp.com";
   // const url = "http://localhost:5002";
 
   socket = io(url, {
